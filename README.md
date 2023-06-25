@@ -29,7 +29,6 @@ Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und du
 
 5. **Grafische Benutzeroberfläche (GUI)**
    - Füge der To-Do-Liste eine grafische Benutzeroberfläche hinzu.
-   - Erkläre die Grundlagen der GUI-Entwicklung in Python und unterstütze dich bei der Umsetzung.
    - Teste die GUI und überprüfe, ob alle Funktionen weiterhin korrekt funktionieren.
 
 6. **Backend-Logik und Algorithmen**
