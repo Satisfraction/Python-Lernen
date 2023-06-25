@@ -48,6 +48,6 @@ Es wird empfohlen, etwa 1-2 Stunden pro Woche für das Projekt einzuplanen. Du k
 
 ## Nächster Schritt
 
-Beginne mit dem Projekt, indem du den Code für "Hello World" implementierst. Folge dann den Schritten im Projekt und lerne schrittweise Python kennen, während du deine eigene funktionale To-Do-Liste erstellst.
+Beginne mit dem Projekt, indem du den Code für "Hello World" implementierst. Folge dann den Schritten im Projekt und lerne schrittweise Python kennen, während du deine eigene funktionale To-Do-Liste erstellst. Versuche dann weitere Funktionalität eigenständig durch das gelernte hinzuzufügen.
 
 Viel Spaß und viel Erfolg bei deinem Python-Projekt!
