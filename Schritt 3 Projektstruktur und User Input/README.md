@@ -37,7 +37,7 @@ Dieser Code erstellt eine Endlosschleife, die den Benutzer wiederholt nach Aufga
 
 5. Speichere die Datei und führe das Programm aus. Achte dabei darauf das du dich im richtigen Dateipfad befindest.
 
-```python
-python todo_list.py
+   ```python
+   python todo_list.py
 
 Jetzt hast du eine grundlegende Projektstruktur und die Benutzereingabe implementiert, um Aufgaben zur To-Do-Liste hinzuzufügen.
