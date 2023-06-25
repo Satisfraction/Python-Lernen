@@ -49,7 +49,7 @@ Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und du
 
 ## Zeitaufwand
 
-Es wird empfohlen, etwa 5-10 Stunden pro Woche für das Projekt einzuplanen. Du kannst den Fortschritt in deinem eigenen Tempo verfolgen und bei Bedarf mehr oder weniger Zeit investieren.
+Es wird empfohlen, etwa 1-2 Stunden pro Woche für das Projekt einzuplanen. Du kannst den Fortschritt in deinem eigenen Tempo verfolgen und bei Bedarf mehr oder weniger Zeit investieren.
 
 ## Nächster Schritt
 
