@@ -1,4 +1,4 @@
-# Schritt 3: Projektstruktur und User Input
+# Schritt 3: Projektstruktur und User Input - Aufgaben hinzufügen
 
 In diesem Schritt werden wir die grundlegende Projektstruktur erstellen und die Benutzereingabe implementieren, um Aufgaben zur To-Do-Liste hinzuzufügen.
 
