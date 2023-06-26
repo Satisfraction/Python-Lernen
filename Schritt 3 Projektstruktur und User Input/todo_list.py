@@ -9,10 +9,10 @@ def ___():
     ___                                # hier wird die Aufgabe ausgegeben mittels return Funktion
 if __name__ == "___":               
     while True:
-        ___ = add_task()                    # hier wird rufen wir die add_task Funktion auf
+        ___ = add_task()                    # hier rufen wir die add_task Funktion auf
         todo_list.append((___, ___.datetime.now()))      # hier wird die Aufgabe in der Liste hinzugefügt mittels der append Funktion
         ___(f"Aufgabe '{task}' wurde zur To-Do-Liste hinzugefügt.")      # hier wird die Aufgabe ausgegeben mittels der print Funktion
 
         action = input("Möchtest du eine weitere Aufgabe hinzufügen? (Ja/Nein): ")      # hier wird die Abfrage vom User geholt um Fortzusetzen mittels der input Funktion
-        if action.lower() != "ja":                # hier wird Programm abgebrochen, wenn die Abfrage nicht "Ja" ist
+        if action.lower() != "ja":                # hier wird das Programm abgebrochen, wenn die Abfrage nicht "Ja" ist
             ___
