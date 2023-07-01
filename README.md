@@ -27,16 +27,20 @@ Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und du
    - Erläutere weitere Konzepte und ermutige zum Experimentieren mit dem Code.
    - Teste das Anzeigen und Bearbeiten von Aufgaben.
 
-5. **Grafische Benutzeroberfläche (GUI)**
+5. **Speichern und Wiederherstellen der To-Do-Liste**
+   - Füge der To-Do-Liste eine Funktion zum abspeichern und wiederherstellen hinzu.
+   - Teste das Speichern und Wiederherstellen der Liste.
+
+6. **Grafische Benutzeroberfläche (GUI)**
    - Füge der To-Do-Liste eine grafische Benutzeroberfläche hinzu.
    - Teste die GUI und überprüfe, ob alle Funktionen weiterhin korrekt funktionieren.
 
-6. **Backend-Logik und Algorithmen**
+7. **Backend-Logik und Algorithmen**
    - Verbessere die Backend-Logik und Algorithmen der To-Do-Liste.
    - Diskutiere verschiedene Ansätze und erkläre getroffene Entscheidungen.
    - Führe Tests durch, um sicherzustellen, dass die To-Do-Liste gut optimiert ist.
 
-7. **Abschluss und Ausblick**
+8. **Abschluss und Ausblick**
    - Überprüfe das gesamte Projekt auf Fehler oder Verbesserungsmöglichkeiten.
    - Fasse die wichtigsten Lernpunkte zusammen und ermutige zum eigenständigen Experimentieren.
    - Gib einen Ausblick auf mögliche Erweiterungen oder andere Projekte, die auf den erlernten Konzepten aufbauen.
