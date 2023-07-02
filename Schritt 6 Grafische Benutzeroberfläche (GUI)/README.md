@@ -85,61 +85,61 @@ Wir definieren eine Funktion add_task(), um eine neue Aufgabe zur To-Do-Liste hi
 
 - Funktion zum Laden der To-Do-Liste:
 
-        ```python
-        # Laden der To-Do-Liste
-        todo_list = load_todo_list()
+    ```python
+    # Laden der To-Do-Liste
+    todo_list = load_todo_list()
 
 
 - Funktion für das erstellen der Listbox:
 
-        ```python
-        # Erstellen der Listbox
-        listbox = tk.Listbox(root, width=50)
-        listbox.pack(pady=10)
+    ```python
+    # Erstellen der Listbox
+    listbox = tk.Listbox(root, width=50)
+    listbox.pack(pady=10)
 
 
 - Funktion für das Hinzufügen der Vorhandenen Aufgaben:
 
-        ```python
-        # Hinzufügen der vorhandenen Aufgaben zur Listbox
-        for task in todo_list:
-            listbox.insert(tk.END, task[0])
+    ```python
+    # Hinzufügen der vorhandenen Aufgaben zur Listbox
+    for task in todo_list:
+        listbox.insert(tk.END, task[0])
 
 
 - Erstellung des Eingabefeldes
 
-        ```python
-        # Erstellen des Eingabefelds und der Schaltfläche zum Hinzufügen von Aufgaben
-        entry = tk.Entry(root, width=30)
-        entry.pack(pady=5)
-        add_button = tk.Button(root, text="Aufgabe hinzufügen", command=add_task)
-        add_button.pack(pady=5)
+    ```python
+    # Erstellen des Eingabefelds und der Schaltfläche zum Hinzufügen von Aufgaben
+    entry = tk.Entry(root, width=30)
+    entry.pack(pady=5)
+    add_button = tk.Button(root, text="Aufgabe hinzufügen", command=add_task)
+    add_button.pack(pady=5)
 
 
 - Erstellung der Schaltfläche zum erledigt Markieren:
 
-        ```python
-        # Erstellen der Schaltfläche zum Markieren einer Aufgabe als erledigt
-        mark_button = tk.Button(root, text="Aufgabe erledigt", command=mark_task_completed)
-        mark_button.pack(pady=5)
+    ```python
+    # Erstellen der Schaltfläche zum Markieren einer Aufgabe als erledigt
+    mark_button = tk.Button(root, text="Aufgabe erledigt", command=mark_task_completed)
+    mark_button.pack(pady=5)
 
 
 - Funktion zum Schließen der GUI und Speichern der Liste:
 
-        ```python
-        # Schließen der GUI und Speichern der Liste beim Beenden des Programms
-        def exit_program():
-            save_todo_list()
-            root.destroy()
+    ```python
+    # Schließen der GUI und Speichern der Liste beim Beenden des Programms
+    def exit_program():
+        save_todo_list()
+        root.destroy()
 
-        root.protocol("WM_DELETE_WINDOW", exit_program)
+    root.protocol("WM_DELETE_WINDOW", exit_program)
 
 
 - Befehl zum starten der Hauptschleife:
 
-        ```python
-        # Start der Hauptschleife der Benutzeroberfläche
-        root.mainloop()
+    ```python
+    # Start der Hauptschleife der Benutzeroberfläche
+    root.mainloop()
 
 Wir definieren eine Funktion open_ui(), um die Benutzeroberfläche zu erstellen und anzuzeigen. In dieser Funktion werden die Listbox, das Eingabefeld und die Schaltflächen für das Hinzufügen und Markieren von Aufgaben erstellt. Außerdem wird die To-Do-Liste geladen, bereits vorhandene Aufgaben werden zur Listbox hinzugefügt, und die Listbox wird angezeigt. Beim Schließen der GUI wird die Liste gespeichert.
 
