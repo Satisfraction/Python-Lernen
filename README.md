@@ -37,33 +37,41 @@ This project consists of different areas, including medium and small projects.
 
 
 ## medium-big-Projekte
+[medium - big projekte](https://github.com/Satisfraction/Python-Lernen/tree/main/medium%20-%20big%20projekte)
 
 ### Python To-Do-Liste
+[To-Do-Liste](https://github.com/Satisfraction/Python-Lernen/tree/main/medium%20-%20big%20projekte/To-Do-Liste)
 
 Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und durch aktives Mitwirken eine funktionale To-Do-Liste zu erstellen. Jeder Schritt des Projekts wird schrittweise erklärt, um ein besseres Verständnis für Python zu entwickeln.
 
 
 ## mini-projekte
-
+[mini-projekte](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte)
 
 ## Buchstaben Zähler Tutorials
+[Buchstaben Zähler Deutsches Tutorial](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Buchstaben%20Z%C3%A4hler%20-%20Letter%20Counter/Buchstaben%20Z%C3%A4hler%20(Deutsch))
 
 ### Buchstaben Zähler CLI-Tutorial
+[Buchstaben Zähler CLI-Tutorial Deutsche Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Buchstaben%20Z%C3%A4hler%20-%20Letter%20Counter/Buchstaben%20Z%C3%A4hler%20(Deutsch)/CLI-Tutorial%20(einfach))
 
 Dieses Tutorial führt dich durch die Erstellung des Codes "letterCounter.py", einer Anwendung, die eine Nachricht und einen Buchstaben von dir annimmt und zählt, wie oft dieser Buchstabe in der Nachricht vorkommt.
 
 ### Buchstaben Zähler GUI-Tutorial
+[Buchstaben Zähler GUI-Tutorial Deutsche Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Buchstaben%20Z%C3%A4hler%20-%20Letter%20Counter/Buchstaben%20Z%C3%A4hler%20(Deutsch)/GUI-Tutorial%20(medium))
 
 Dieses Tutorial führt dich durch die Erstellung des Codes "letterCounter.py" mit einer grafischen Benutzeroberfläche (GUI), einer Anwendung, die eine Nachricht und einen Buchstaben von dir annimmt und zählt, wie oft dieser Buchstabe in der Nachricht vorkommt.
 
 
 ## Letter Counter Tutorials
+[Letter Counter English Tutorial](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Buchstaben%20Z%C3%A4hler%20-%20Letter%20Counter/Letter%20Counter%20(Englisch))
 
 ### Letter Counter CLI Tutorial
+[Letter Counter CLI-Tutorial English Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Buchstaben%20Z%C3%A4hler%20-%20Letter%20Counter/Letter%20Counter%20(Englisch)/CLI-Tutorial%20(easy))
 
 This tutorial will guide you through the creation of the code "letterCounter.py", an application that takes a message and a letter from you and counts how many times that letter appears in the message.
 
 ### Letter Counter GUI Tutorial
+[Letter Counter GUi-Tutorial English Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Buchstaben%20Z%C3%A4hler%20-%20Letter%20Counter/Letter%20Counter%20(Englisch)/GUI-Tutorial%20(medium))
 
 This tutorial walks you through creating the code "letterCounter.py" with a graphical user interface (GUI), an application that takes a message and a letter from you and counts how many times that letter appears in the message.
 
