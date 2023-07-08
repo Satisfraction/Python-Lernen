@@ -46,6 +46,8 @@ Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und du
    - Diskutiere die Vor- und Nachteile der gewählten Datenstruktur und Sortierungsalgorithmen.
    - Erkläre, wie die implementierten Änderungen die Leistung und Benutzerfreundlichkeit verbessern.
 
+7. 2. **Kommt bald**
+
 ## Zeitaufwand
 
 Es wird empfohlen, etwa 1-2 Stunden pro Woche für das Projekt einzuplanen. Du kannst den Fortschritt in deinem eigenen Tempo verfolgen und bei Bedarf mehr oder weniger Zeit investieren.
