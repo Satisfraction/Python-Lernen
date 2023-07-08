@@ -39,14 +39,14 @@ Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und du
    - Verbessere die Backend-Logik und Algorithmen der To-Do-Liste.
    - Führe Tests durch, um sicherzustellen, dass die To-Do-Liste gut optimiert ist.
 
-7. 1. **Effiziente Datenstruktur und Sortierungsoptionen**
+- 7.1. **Effiziente Datenstruktur und Sortierungsoptionen**
 
    - Implementiere eine effiziente Datenstruktur für die To-Do-Liste (z.B. verkettete Liste, binärer Suchbaum, Hashtabelle).
    - Füge Sortierungsoptionen hinzu, um die Aufgaben nach verschiedenen Kriterien zu sortieren.
    - Diskutiere die Vor- und Nachteile der gewählten Datenstruktur und Sortierungsalgorithmen.
    - Erkläre, wie die implementierten Änderungen die Leistung und Benutzerfreundlichkeit verbessern.
 
-7. 2. **Kommt bald**
+- 7.2. **Kommt bald**
 
 ## Zeitaufwand
 
