@@ -77,23 +77,29 @@ This tutorial walks you through creating the code "letterCounter.py" with a grap
 
 
 ## Rechner Tutorials
+[Rechner Tutorial Deutsche Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Rechner%20-%20Calculator/Rechner%20(Deutsch))
 
 ### Rechner CLI-Tutorial
+[Rechner CLI-Tutorial Deutsche Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Rechner%20-%20Calculator/Rechner%20(Deutsch)/CLI-Tutorial%20(einfach))
 
 Dieses Tutorial führt dich durch die Erstellung des Codes "rechner.py", einer einfachen Taschenrechneranwendung mit einer Befehlszeilenschnittstelle (CLI).
 
 ### Rechner GUI-Tutorial
+[Rechner GUI-Tutorial Deutsche Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Rechner%20-%20Calculator/Rechner%20(Deutsch)/GUI-Tutorial%20(medium))
 
 Dieses Tutorial führt dich durch die Erstellung des Codes "rechner.py" mit einer grafischen Benutzeroberfläche (GUI), einer einfachen Taschenrechneranwendung.
 
 
 ## Calculator Tutorials
+[Calculator Tutorial English Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Rechner%20-%20Calculator/Calculator%20(Englisch))
 
 ### Calculator CLI Tutorial
+[Calculatir CLI-Tutorial English Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Rechner%20-%20Calculator/Calculator%20(Englisch)/CLI-Tutorial%20(easy))
 
 This tutorial will guide you through the creation of the code "rechner.py", a simple calculator application with a command line interface (CLI).
 
 ### Calculator GUI Tutorial
+[Calculatir GUI-Tutorial English Version](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Rechner%20-%20Calculator/Calculator%20(Englisch)/GUI-Tutorial%20(medium))
 
 This tutorial will guide you through the creation of the code "rechner.py" with a graphical user interface (GUI), a simple calculator application.
 
