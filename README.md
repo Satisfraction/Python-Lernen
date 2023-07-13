@@ -48,7 +48,7 @@ Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und du
 
 ## medium-projekte
 **!!work in progress!!**
-[medium-projekte]
+[medium-projekte](https://github.com/Satisfraction/Python-Lernen/tree/main/medium-projekte%20-%20work%20in%20progress)
 
 ## mini-projekte
 [mini-projekte](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte)
