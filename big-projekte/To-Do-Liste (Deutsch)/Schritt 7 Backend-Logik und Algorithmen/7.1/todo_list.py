@@ -38,7 +38,6 @@ def add_task():
     
         
 # Funktion zum Sortieren der Aufgaben nach Aufgabentext
-# Funktion zum Sortieren der Aufgaben nach Aufgabentext
 def sort_tasks_by_text():
     
 

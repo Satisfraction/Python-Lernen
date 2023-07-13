@@ -8,8 +8,9 @@ This project consists of different areas, including medium and small projects.
 ## Inhaltsverzeichnis / Table of contents
 
 - [Projekte](#projekte)
-    - [medium - big projekte](#medium-big-projekte)
+    - [big projekte](#big-projekte)
         - [Python To-Do-Liste](#python-to-do-liste)
+    - [medium projekte](#medium-projekte)
     - [mini-projekte](#mini-projekte)
         - [Buchstaben Zähler - Letter Counter](#buchstaben-zähler-tutorials)
             - [Buchstaben Zähler (Deutsch)](#buchstaben-zähler-tutorials)
@@ -36,14 +37,18 @@ This project consists of different areas, including medium and small projects.
 ## Projekte
 
 
-## medium-big-Projekte
-[medium - big projekte](https://github.com/Satisfraction/Python-Lernen/tree/main/medium%20-%20big%20projekte)
+## big-Projekte
+[big-projekte](https://github.com/Satisfraction/Python-Lernen/tree/main/big-projekte)
 
 ### Python To-Do-Liste
-[To-Do-Liste](https://github.com/Satisfraction/Python-Lernen/tree/main/medium%20-%20big%20projekte/To-Do-Liste)
+[To-Do-Liste](https://github.com/Satisfraction/Python-Lernen/tree/main/big%20projekte/To-Do-Liste)
 
 Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und durch aktives Mitwirken eine funktionale To-Do-Liste zu erstellen. Jeder Schritt des Projekts wird schrittweise erklärt, um ein besseres Verständnis für Python zu entwickeln.
 
+
+## medium-projekte
+**!!work in progress!!**
+[medium-projekte]
 
 ## mini-projekte
 [mini-projekte](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte)

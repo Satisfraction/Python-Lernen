@@ -43,10 +43,15 @@ Dieses Projekt hat zum Ziel, dir einen Einstieg in Python zu ermöglichen und du
 
    - Implementiere eine effiziente Datenstruktur für die To-Do-Liste (z.B. verkettete Liste, binärer Suchbaum, Hashtabelle).
    - Füge Sortierungsoptionen hinzu, um die Aufgaben nach verschiedenen Kriterien zu sortieren.
-   - Diskutiere die Vor- und Nachteile der gewählten Datenstruktur und Sortierungsalgorithmen.
-   - Erkläre, wie die implementierten Änderungen die Leistung und Benutzerfreundlichkeit verbessern.
 
-- 7.2. **Kommt bald**
+- 7.2. **Prioritäten, Fälligkeitsdaten und Optimierung**
+
+   - Prioritäten und Fälligkeitsdaten für die Aufgaben implementieren
+   - Weitere Sortierungsoptionen hizufügen, für mehr Kriterien zum Sortieren der Aufgaben
+
+8. **Vorschläge zur Weiterentwicklung**
+
+   - Diverse Vorschläge für motivierte zum Weiterentwickeln der To-Do-Liste
 
 ## Zeitaufwand
 
