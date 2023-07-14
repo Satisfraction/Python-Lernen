@@ -112,14 +112,15 @@ This tutorial will guide you through the creation of the code "rechner.py", a si
 This tutorial will guide you through the creation of the code "rechner.py" with a graphical user interface (GUI), a simple calculator application.
 
 ## Simples Spiel - Simple Game
+[Simples Spiel - Simple Game](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Simples%20Spiel%20-%20Simple%20Game)
 
 ### Nummern Rate Spiel (Deutsch)
-[Nummern Rate Spiel (Deutsch)]()
+[Nummern Rate Spiel (Deutsch)](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Simples%20Spiel%20-%20Simple%20Game/Nummern%20Rate%20Spiel%20(Deutsch))
 
 Ein textbasiertes Ratespiel, bei dem der Spieler eine zufällig generierte Zahl innerhalb einer begrenzten Anzahl von Versuchen erraten muss.
 
 ### Number Guessing Game (English)
-[Number Guessing Game (English)]()
+[Number Guessing Game (English)](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Simples%20Spiel%20-%20Simple%20Game/Number%20Guessing%20Game%20(English))
 
 A text-based guessing game where the player has to guess a randomly generated number within a limited number of attempts.
 

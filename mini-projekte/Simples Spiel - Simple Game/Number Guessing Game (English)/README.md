@@ -1,5 +1,7 @@
 # Python Tutorial for Beginners: Creating a Simple Game in 10 Steps
 
+![Preview](preview.png)
+
 Learn Python with this Simple Game Tutorial in only 10 Steps!
 
 ## Introduction:
