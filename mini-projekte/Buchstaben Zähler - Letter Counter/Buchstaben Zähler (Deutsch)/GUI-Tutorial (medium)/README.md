@@ -1,4 +1,7 @@
-# # Tutorial für den Code "letterCounter.py" mit GUI (Benutzeroberfläche)
+# Tutorial für den Code "letterCounter.py" mit GUI (Benutzeroberfläche)
+
+Ich empfehle vorher das CLI-Tutorial zu machen.
+[CLI-Tutorial](https://github.com/Satisfraction/Python-Lernen/tree/main/mini-projekte/Buchstaben%20Z%C3%A4hler%20-%20Letter%20Counter/Buchstaben%20Z%C3%A4hler%20(Deutsch)/CLI-Tutorial%20(einfach))
 
 ## Schritt 1: 
 
