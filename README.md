@@ -26,6 +26,9 @@ This project consists of different areas, including medium and small projects.
             - [Rechner (Deutsch)](#rechner-tutorials)
                 - [CLI-Tutorial (einfach)](#rechner-cli-tutorial)
                 - [GUI-Tutorial (medium)](#rechner-gui-tutorial)
+        - [Simples Spiel - Simple Game](#simples-spiel---simple-game)
+                - [Nummern Rate Spiel (Deutsch)](#nummern-rate-spiel-deutsch)
+                - [Number Guessing Game (English)](#number-guessing-game-english)
 - [Vorraussetzungen](#voraussetzungen)
 - [Zeitaufwand](#zeitaufwand)
 - [Prerequisites](#prerequisites)
@@ -108,6 +111,17 @@ This tutorial will guide you through the creation of the code "rechner.py", a si
 
 This tutorial will guide you through the creation of the code "rechner.py" with a graphical user interface (GUI), a simple calculator application.
 
+## Simples Spiel - Simple Game
+
+### Nummern Rate Spiel (Deutsch)
+[Nummern Rate Spiel (Deutsch)]()
+
+Ein textbasiertes Ratespiel, bei dem der Spieler eine zufällig generierte Zahl innerhalb einer begrenzten Anzahl von Versuchen erraten muss.
+
+### Number Guessing Game (English)
+[Number Guessing Game (English)]()
+
+A text-based guessing game where the player has to guess a randomly generated number within a limited number of attempts.
 
 #### Voraussetzungen
 
